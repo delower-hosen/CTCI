@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.exe
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.deps.json
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.runtimeconfig.json
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.dll
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\bin\Debug\netcoreapp3.0\Q2. Check Permutation.pdb
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\obj\Debug\netcoreapp3.0\Q2. Check Permutation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\obj\Debug\netcoreapp3.0\Q2. Check Permutation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\obj\Debug\netcoreapp3.0\Q2. Check Permutation.AssemblyInfo.cs
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\obj\Debug\netcoreapp3.0\Q2. Check Permutation.dll
+C:\Users\HP\source\repos\Q2. Check Permutation\Q2. Check Permutation\obj\Debug\netcoreapp3.0\Q2. Check Permutation.pdb
